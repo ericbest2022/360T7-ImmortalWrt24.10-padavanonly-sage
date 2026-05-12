@@ -2,17 +2,6 @@
 
 # 稳定固件
 
-# config 配置文件
-
-    导入【sagehou/360T7-ImmortalWrt】，config 添加了passwall
-    https://github.com/sagehou/360T7-ImmortalWrt
-
-
-# 编译环境
-
-    导入【sagehou/360T7-ImmortalWrt】
-    https://github.com/sagehou/360T7-ImmortalWrt
-
 
 # Version
 	REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
